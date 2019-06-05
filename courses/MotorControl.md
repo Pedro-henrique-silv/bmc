@@ -5,7 +5,7 @@
 - [Renato Watanabe](pesquisa.ufabc.edu.br/bmclab/pessoal/renato/)
 
 ### Time and place  
-- Wednesdays, 19-23h; campus São Bernardo do Campo
+- Wednesdays, 19-23h; O-L07 campus São Bernardo do Campo
 
 ### Grades
 

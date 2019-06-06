@@ -14,7 +14,7 @@
 
 ### Lecture 1
 
-[Introduction](ModSim2019_0.pdf)
+[Introduction](MotorControl2019_0.pdf)
 
  * Control of human movement, modeling and simulation  
  * Course Information

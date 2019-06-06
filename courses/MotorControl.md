@@ -15,7 +15,7 @@
 
 ### Lecture 1
 
-[Introduction](ModSim2019_0.pdf)
+[Introduction](MotorControl2019_0.pdf)
 
  * Control of human movement, modeling and simulation  
  * Course Information   
@@ -35,9 +35,7 @@ Tasks (for Lecture 2):
 
  Readings (for Lecture 3):
 
-* TSIANOS, G. A .; LOEB, G. E. Muscle and limb mechanics. Comprehensive Physiology, v. 7, n. 2, p. 429-462, 2017.
-* ZAJAC, F. E. Muscle coordination of movement: a perspective. J Biomech, v. 26 Suppl 1, n. SUPPL. 1, p. 109–124, 1993. 
- 
+* ENOKA, R. Neuromechanics of human movement (2008), Chapter 6 
 
  Readings:
 

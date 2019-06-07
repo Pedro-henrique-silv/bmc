@@ -26,8 +26,9 @@ Tasks (for Lecture 3):
 
 ### Lecture 2
 
- * [Python for scientific computing](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/PythonForScientificComputing.ipynb)
- * [Python Tutorial](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/PythonTutorial.ipynb)
+ * Python for scientific computing -- [English](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/PythonForScientificComputing.ipynb), [Portuguese](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/PT-BR/PythonForScientificComputing_PT-BR.ipynb)
+
+ * Python Tutorial -- [English](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/PythonTutorial.ipynb), [Portuguese](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/PT-BR/PythonTutorial_PT-BR.ipynb)
  
 Tasks (for Lecture 4):
 

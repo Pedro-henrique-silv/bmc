@@ -39,6 +39,14 @@ Readings:
  * Shen, H. (2014). Interactive notebooks: Sharing the code. Nature, 5–6. Retrieved from http://europepmc.org/abstract/med/25373681  
  * Perkel, J. M. (2015). Programming: Pick up Python. Nature, 518(7537), 125–126. https://doi.org/10.1038/518125a
  
+### Lecture 3
+
+ * OpenSim tutorials
+
+Readings (for Lecture 5):
+
+* Bear, M., Connors, B., & Paradiso, M. (2017). Neuroscience: Exploring the brain (4th ed.). (pages 454-468).
+
 
  
  

@@ -47,9 +47,8 @@ Tasks (for Lecture 2):
 
 * OpenSim tutorials
 
-* Newton Law for particles.-[English](https://github.com/BMClab/bmc/blob/master/notebooks/newtonLawForParticles.ipynb), [Portuguese](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/PT-BR/newtonLawForParticles_PT-BR.ipynb)
+* Numerical methods to solve ordinary differential equations. [https://github.com/BMClab/bmc/blob/master/notebooks/newtonLawForParticles.ipynb](https://github.com/BMClab/bmc/blob/master/notebooks/newtonLawForParticles.ipynb),[https://github.com/BMClab/bmc/blob/master/notebooks/OrdinaryDifferentialEquation.ipynb](https://github.com/BMClab/bmc/blob/master/notebooks/OrdinaryDifferentialEquation.ipynb)
 
-* Numerical methods to solve ordinary differential equations.- [English](https://github.com/BMClab/bmc/blob/master/notebooks/OrdinaryDifferentialEquation.ipynb), [Portuguese](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/PT-BR/OrdinaryDifferentialEquation_PT-BR.ipynb)
  
  Task for lecture 3:
  

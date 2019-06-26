@@ -56,3 +56,18 @@ Readings (for Lecture 5):
 Task for lecture 6:
  
  * Write a Jupyter notebook to find the trajectory of a ball considering the air drag proportional to the square root of the ball velocity. Consider that the initial velocity of the particle is $v_0 = 30 m/s$ and the initial angle with the horizontal plane is 30 degrees, the gravity acceleration is $g = 9.81 m/s^2$, the mass of the ball is m = 0.43 kg and the air drag coefficient is $b= 0.006 kg.m^{1/2}/s^{3/2}$.
+
+
+### Lecture 5
+
+ * Discussion about Bear, M., Connors, B., & Paradiso, M. (2017). Neuroscience: Exploring the brain (4th ed.). (pages 454-468) 
+   + Animations about muscle contraction: [1](https://youtu.be/GrHsiHazpsw), [2](https://youtu.be/jqy0i1KXUO4), [3](https://www.youtube.com/watch?v=m0UiYgnWaU8)  
+
+* Readings (for Lecture 7):
+ 
+    + NIGG, B. M.; HERZOG, W. Modelling. In: Biomechanics of the Musculo-skeletal System.  p. 501 - 534. 
+
+
+
+ 
+  

@@ -57,3 +57,23 @@ Tasks (for Lecture 2):
 Readings (for Lecture 3):
 
 * Bear, M., Connors, B., & Paradiso, M. (2017). Neuroscience: Exploring the brain (4th ed.). (pages 454-468).
+
+### Lecture 3
+
+ * Discussion about Bear, M., Connors, B., & Paradiso, M. (2017). Neuroscience: Exploring the brain (4th ed.). (pages 454-468) 
+   + Animations about muscle contraction: [1](https://youtu.be/GrHsiHazpsw), [2](https://youtu.be/jqy0i1KXUO4), [3](https://www.youtube.com/watch?v=m0UiYgnWaU8)  
+
+* Readings (for Lecture 4):
+ 
+    + NIGG, B. M.; HERZOG, W. Modelling. In: Biomechanics of the Musculo-skeletal System.  p. 501 - 534.
+
+ * Models of Kelvin, Voigt and Maxwell.    
+   
+  Tasks (for lecture 4)
+  
+  * Implement the Kelvin model. Set the parameters of the model so as to the response of the model is similar to the shown in the Figure 3(a) from VAN LOOCKE, M.; LYONS, C. G.; SIMMS, C. K. Viscoelastic properties of passive skeletal muscle in compression: Stress-relaxation behaviour and constitutive modelling. Journal of Biomechanics, v. 41, n. 7, p. 1555–1566, 2008. You can find this article at the Mendeley group.
+
+  Additional reading:
+  
+  * YAMAGUCHI, Y. T; Dynamic modeling of musculoskeletal motion: A Vectorized Approach for Biomechanical Analysis in Three Dimensions (2001), Sections 2.2.1 and 2.2.2.
+  

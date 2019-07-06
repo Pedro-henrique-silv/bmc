@@ -83,4 +83,13 @@ Task for lecture 6:
 
 * Discussion about NIGG, B. M.; HERZOG, W. Modelling. In: Biomechanics of the Musculo-skeletal System.  p. 501 - 534.
  
-  
+### Lecture 8
+
+- Hill model of muscle. NIGG, B. M.; HERZOG, W. Modelling. In: Biomechanics of the Musculo-skeletal System.  p. 631 - 634. 
+
+- Task (for the end of Lecture 9)
+
+  - Implement the model in NIGG, B. M.; HERZOG, W. Modelling. In: Biomechanics of the Musculo-skeletal System.  p. 631 - 634. 
+    - Use Fmax = 7400 N, Lceopt = 0.093 m, W = 0.63Lceopt, a = 0.25Fmax, b = 2.5Lceopt, LslackSE = 0.223 m, LslackPE = 0.093 m, kSE = Fmax/(0.04LslackSE)^2, kPE = Fmax/(0.04LslackPE)^2.
+    - The initial condition of Lce is Lce = 0.087 m.
+    - The length of muscle-tendon should be the shown in Figure 4.8.6 of   NIGG, B. M.; HERZOG, W. Modelling. In: Biomechanics of the Musculo-skeletal System. 

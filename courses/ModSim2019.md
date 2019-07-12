@@ -97,3 +97,6 @@ Task for lecture 6:
 ### Lecture 9
 
   - Implementation of the model in NIGG, B. M.; HERZOG, W. Modelling. In: Biomechanics of the Musculo-skeletal System.  p. 631 - 634. 
+  
+### Lecture 10
+ -[Nigg muscle model](https://gist.github.com/rnwatanabe/1f6fb066fda122d067bcd91c4a8f082b)

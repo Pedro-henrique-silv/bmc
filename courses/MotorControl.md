@@ -97,3 +97,5 @@ Task (for Lecture 5)
   * Change the derivative of the contractile element length function. The new function must compute the derivative according to the article from Thelen (2003) (Eq. (4), (6) and (7)):
   
     + Thelen D; Adjustment of muscle mechanics model parameters to simulate dynamic contractions in older adults (2003)
+
+  -[Nigg muscle model](https://gist.github.com/rnwatanabe/1f6fb066fda122d067bcd91c4a8f082b)

@@ -97,3 +97,11 @@ Task for lecture 6:
 ### Lecture 9
 
   - Implementation of the model in NIGG, B. M.; HERZOG, W. Modelling. In: Biomechanics of the Musculo-skeletal System.  p. 631 - 634. 
+
+### Lecture 10
+
+  Task (for Lecture 11)
+  
+  * Change the derivative of the contractile element length function. The new function must compute the derivative according to the article from Thelen (2003) (Eq. (4), (6) and (7)):
+  
+    + Thelen D; Adjustment of muscle mechanics model parameters to simulate dynamic contractions in older adults (2003)

@@ -110,6 +110,8 @@ Task for lecture 6:
 
 ### Lecture 11
 
+[Muscle model with velocity expression from  Thelen(2003)](https://gist.github.com/rnwatanabe/36f20c28e2646a245c3e084bb07f9f1a)
+
 Task (for Lecture 13):
  
  * Implement the activation dynamics as in Thelen (2003).

@@ -107,3 +107,11 @@ Task for lecture 6:
     + Thelen D; Adjustment of muscle mechanics model parameters to simulate dynamic contractions in older adults (2003)
   
 -[Nigg muscle model](https://gist.github.com/rnwatanabe/1f6fb066fda122d067bcd91c4a8f082b)
+
+### Lecture 11
+
+Task (for Lecture 13):
+ 
+ * Implement the activation dynamics as in Thelen (2003).
+ 
+ * Implement the pennation angle as in Thelen (2003).

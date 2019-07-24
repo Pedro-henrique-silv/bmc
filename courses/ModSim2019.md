@@ -115,3 +115,19 @@ Task (for Lecture 13):
  * Implement the activation dynamics as in Thelen (2003).
  
  * Implement the pennation angle as in Thelen (2003).
+
+ ### Lecture 12
+
+Task (for Lecture 13):
+ 
+ * Define functions to compute all the variables of the muscle model
+
+ ### Lecture 13
+
+ * [Tutorial on classes in Python ](https://panda.ime.usp.br/pensepy/static/pensepy/13-Classes/classesintro.html) 
+
+  Task (for Lecture 15):
+ 
+ * Write a Python Class to implement the muscle model developed during the course.
+
+

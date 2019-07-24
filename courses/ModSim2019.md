@@ -110,24 +110,28 @@ Task for lecture 6:
 
 ### Lecture 11
 
+[Muscle model with velocity expression from  Thelen(2003)](https://gist.github.com/rnwatanabe/36f20c28e2646a245c3e084bb07f9f1a)
+
 Task (for Lecture 13):
  
  * Implement the activation dynamics as in Thelen (2003).
  
  * Implement the pennation angle as in Thelen (2003).
 
- ### Lecture 12
+### Lecture 12
 
-Task (for Lecture 13):
+* Task (for Lecture 13):
+
+- Define functions to compute all variables of the muscle model.
+
+### Lecture 13
+
+* [Tutorial on classes in Python ](https://panda.ime.usp.br/pensepy/static/pensepy/13-Classes/classesintro.html)  
+
+Task (for Lecture 15):
  
- * Define functions to compute all the variables of the muscle model
+ * Write a Python Class to implement the muscle model developed during the course. 
 
- ### Lecture 13
-
- * [Tutorial on classes in Python ](https://panda.ime.usp.br/pensepy/static/pensepy/13-Classes/classesintro.html) 
-
-  Task (for Lecture 15):
- 
- * Write a Python Class to implement the muscle model developed during the course.
-
-
+Readings (for Lecture 15)
+  
+   * BEAR, M. F.; W, C. B.; PARADISO, M. A. Neuroscience: Exploring the brain. 4. ed. Philadelphia, PA, USA: Lippincott Williams & Wilkins, 2015.   p. 535 - 534.

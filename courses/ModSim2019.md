@@ -130,7 +130,7 @@ Task (for Lecture 13):
 
 Task (for Lecture 15):
  
- * Write a Python Class to implement the muscle model developed during the course. 
+ * Write a Python Class to implement the muscle model developed during the course. [Continue from here](https://gist.github.com/rnwatanabe/8698b381302eff7d481398cad9407ef7)
 
 Readings (for Lecture 15)
   

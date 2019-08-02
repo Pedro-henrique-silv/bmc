@@ -135,3 +135,8 @@ Task (for Lecture 15):
 Readings (for Lecture 15)
   
    * BEAR, M. F.; W, C. B.; PARADISO, M. A. Neuroscience: Exploring the brain. 4. ed. Philadelphia, PA, USA: Lippincott Williams & Wilkins, 2015.   p. 469-481.
+
+
+## Lecture 16
+
+- [Muscle class](https://gist.github.com/rnwatanabe/f0ae57b2228b4d240193862c21c0ba99)

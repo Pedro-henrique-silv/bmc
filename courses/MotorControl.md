@@ -108,3 +108,35 @@ Task (for Lecture 7):
  * Implement the activation dynamics as in Thelen (2003).
  
  * Implement the pennation angle as in Thelen (2003).
+
+ ### Lecture 7
+
+* Task (for Lecture 8):
+
+- Define functions to compute all variables of the muscle model.
+
+* [Tutorial on classes in Python ](https://panda.ime.usp.br/pensepy/static/pensepy/13-Classes/classesintro.html)  
+
+Task (for Lecture 8):
+ 
+ * Write a Python Class to implement the muscle model developed during the course. [Continue from here](https://gist.github.com/rnwatanabe/8698b381302eff7d481398cad9407ef7)
+
+Readings (for Lecture 8)
+  
+   * BEAR, M. F.; W, C. B.; PARADISO, M. A. Neuroscience: Exploring the brain. 4. ed. Philadelphia, PA, USA: Lippincott Williams & Wilkins, 2015.   p. 469-481.
+
+### Lecture 8
+
+- Task(for Lecture 9):
+
+Implement the knee joint using the msucle implemented during the course: 
+
+The data are:
+
+- Lmt = 0.31 - (\theta  - \pi/2)Rf
+-Rf = 0.033 m
+-Rcm = 0.264 m
+- m = 10 kg
+- I = 0.1832 kgm^2
+
+The knee angle dynamics must be modelled according to the Newton-Euler laws.

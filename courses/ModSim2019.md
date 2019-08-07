@@ -140,3 +140,19 @@ Readings (for Lecture 15)
 ## Lecture 16
 
 - [Muscle class](https://gist.github.com/rnwatanabe/f0ae57b2228b4d240193862c21c0ba99)
+
+- Task(for the end of Lecture 17):
+
+Implement the knee joint using the msucle implemented during the course: 
+
+The data are:
+
+- Lmt = 0.31 - (\theta  - \pi/2)Rf
+-Rf = 0.033 m
+-Rcm = 0.264 m
+- m = 10 kg
+- I = 0.1832 kgm^2
+
+The knee angle dynamics must be modelled according to the Newton-Euler laws.
+
+

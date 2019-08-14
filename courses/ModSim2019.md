@@ -155,4 +155,6 @@ The data are:
 
 The knee angle dynamics must be modelled according to the Newton-Euler laws.
 
+### Lecture 18
 
+[ankle joint](https://gist.github.com/rnwatanabe/ae9cc8acbb01bee60f8c7b9cb5c04326)

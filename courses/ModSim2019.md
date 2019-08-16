@@ -161,7 +161,9 @@ The knee angle dynamics must be modelled according to the Newton-Euler laws.
 
 ### Lecture 19
 
-- implement a odel of postural control
+- Task (for Lecture 20)
 
-Mass of the body = 65 kg
-Height of center of mass of the body = 0.7 m
+ + implement a model of postural control
+
+   + Mass of the body = 65 kg
+   + Height of center of mass of the body = 0.7 m

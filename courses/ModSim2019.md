@@ -158,3 +158,10 @@ The knee angle dynamics must be modelled according to the Newton-Euler laws.
 ### Lecture 18
 
 [ankle joint](https://gist.github.com/rnwatanabe/ae9cc8acbb01bee60f8c7b9cb5c04326)
+
+### Lecture 19
+
+- implement a odel of postural control
+
+Mass of the body = 65 kg
+Height of center of mass of the body = 0.7 m
